@@ -167,5 +167,20 @@ Includes:
 - How to set up and run locally
 - Behind-the-scenes of the DevClub Hackathon build
 
+---
+
+## 🖼️ Presentation Slides (PDF)
+
+For a slide-based walkthrough of the API architecture, features, and future enhancements:
+
+📄 [**Click here to view the presentation**](./DevClub-API.pdf)
+
+Covers:
+- Project overview & problem statement
+- API structure & features
+- Data models (course + faculty)
+- Future enhancements & scope beyond hackathon
+
+
 
 

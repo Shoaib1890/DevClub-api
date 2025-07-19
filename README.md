@@ -1,6 +1,7 @@
 # 📘 IIITDM Course & Faculty API
 
-🎥 [Watch Video Demo](https://drive.google.com/file/d/1jS_tNfZIECU1bNI_qf44q3YG1YlIREOo/view?usp=drive_link)
+🎥 [Video Demo](https://drive.google.com/file/d/1jS_tNfZIECU1bNI_qf44q3YG1YlIREOo/view?usp=drive_link) • 🖼️ [Slides (PDF)](./DevClub-API.pdf)
+
 
 A RESTful API built during the 24-hour DevClub Hackathon at IIITDM Kancheepuram.  
 This API provides structured access to college **course** and **faculty** data in **JSON format** for use in apps, dashboards, and research tools.

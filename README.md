@@ -150,3 +150,7 @@ This API provides structured access to college **course** and **faculty** data i
 - `office_location`: String, office location
 - `office_hours`: String, office hours
 
+---
+
+### Video Explanation : [Link]([http://localhost:3000/faculty](https://drive.google.com/file/d/1jS_tNfZIECU1bNI_qf44q3YG1YlIREOo/view?usp=drive_link))
+

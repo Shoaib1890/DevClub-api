@@ -1,5 +1,7 @@
 # 📘 IIITDM Course & Faculty API
 
+🎥 [Watch Video Demo](https://drive.google.com/file/d/1jS_tNfZIECU1bNI_qf44q3YG1YlIREOo/view?usp=drive_link)
+
 A RESTful API built during the 24-hour DevClub Hackathon at IIITDM Kancheepuram.  
 This API provides structured access to college **course** and **faculty** data in **JSON format** for use in apps, dashboards, and research tools.
 
@@ -150,9 +152,20 @@ This API provides structured access to college **course** and **faculty** data i
 - `office_location`: String, office location
 - `office_hours`: String, office hours
 
----
-## 🎥 Video Explanation
+------
 
-[▶️ Click here to watch the demo](https://drive.google.com/file/d/1jS_tNfZIECU1bNI_qf44q3YG1YlIREOo/view?usp=drive_link)
+## 🎥 Video Walkthrough
+
+Want a quick explanation of how it works?  
+Check out this short demo where we walk through the project structure, features, and how to use the API:
+
+👉 [**Click here to watch the full video demo**](https://drive.google.com/file/d/1jS_tNfZIECU1bNI_qf44q3YG1YlIREOo/view?usp=drive_link)
+
+Includes:
+- How the API is structured
+- Example endpoints in action
+- How to set up and run locally
+- Behind-the-scenes of the DevClub Hackathon build
+
 
 
